@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/ltsp03-main (1)/ltsp03-main/Sales/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Downloads/ltsp03-main (1)/ltsp03-main/Sales/app/src/main/res/layout/activity_product.xml" value="0.1" />
+        <entry key="..\:/Downloads/ltsp03-main (1)/ltsp03-main/Sales/app/src/main/res/layout/listitem_product.xml" value="0.17552083333333332" />
+        <entry key="..\:/Downloads/ltsp03-main (1)/ltsp03-main/Sales/app/src/main/res/menu/menu_main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
